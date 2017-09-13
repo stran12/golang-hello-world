@@ -1,0 +1,16 @@
+.idea*
+.DS_Store
+bender.iml
+vendor/.DS_Store
+bender
+tags
+worker
+*.pid
+blueprint.html
+scrum*
+slack*
+junit.xml
+v3_db.dump
+db_bender.dump
+*.swp
+
